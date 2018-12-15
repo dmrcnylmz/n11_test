@@ -11,7 +11,7 @@ public class MyTest extends BaseTest {
     Logger LOGGER = Logger.getLogger(MyTest.class);
 
     @Test
-    public void deneme() {
+    public void n11Test() {
         //HOMEPAGE & HEADERPAGE
         //open login page
         waitForElementAndClick(By.className("btnSignIn"));
