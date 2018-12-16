@@ -21,7 +21,7 @@ public class MyTest extends BaseTest {
         //LOGIN_PAGE
         //login user
         String nickname = "Demircan Yılmaz";
-        String email = "dmrcnylmz@gmail.com";
+        String email = "dmrcnylmz61@gmail.com";
         String password = "demircan61";
         waitForElementAndSendKeys(By.id("email"), email);
         waitForElementAndSendKeys(By.id("password"), password);
