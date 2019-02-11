@@ -1,0 +1,997 @@
+2018-12-15 13:47:24 INFO  BaseTest:30 - Test bitti.
+2018-12-15 13:48:54 INFO  BaseTest:30 - Test bitti.
+2018-12-15 13:54:23 INFO  BaseTest:30 - Test bitti.
+2018-12-15 13:59:51 INFO  BaseTest:30 - Test bitti.
+2018-12-15 15:30:45 INFO  BaseTest:30 - Test bitti.
+2018-12-15 15:51:26 INFO  BaseTest:30 - Test bitti.
+2018-12-15 15:54:19 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:07:16 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:13:02 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:16:56 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:18:25 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:19:19 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:22:15 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:23:30 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:24:17 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:25:31 INFO  MyTest:83 - 1 saniye kadar bekleniyor.
+2018-12-15 16:25:33 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:25:33 INFO  MyTest:83 - 3 saniye kadar bekleniyor.
+2018-12-15 16:25:40 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:33:03 INFO  MyTest:89 - 1 saniye kadar bekleniyor.
+2018-12-15 16:33:04 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:33:04 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 16:33:11 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:34:30 INFO  MyTest:89 - 1 saniye kadar bekleniyor.
+2018-12-15 16:34:32 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:34:32 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 16:34:38 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 16:34:41 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:36:38 INFO  MyTest:90 - 1 saniye kadar bekleniyor.
+2018-12-15 16:36:39 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:36:39 INFO  MyTest:90 - 3 saniye kadar bekleniyor.
+2018-12-15 16:36:46 INFO  MyTest:90 - 3 saniye kadar bekleniyor.
+2018-12-15 16:37:05 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:39:46 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 16:39:47 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:39:47 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 16:39:54 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 16:39:58 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 16:39:59 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:42:03 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 16:42:04 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:42:04 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 16:42:11 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 16:42:15 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 16:42:16 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:11:08 INFO  MyTest:89 - 1 saniye kadar bekleniyor.
+2018-12-15 17:11:09 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 17:11:09 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 17:11:19 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 17:11:29 INFO  MyTest:89 - 1 saniye kadar bekleniyor.
+2018-12-15 17:11:30 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:22:47 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:23:56 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:25:11 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:27:50 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:34:58 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:36:10 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:39:39 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:41:50 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:48:49 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:53:35 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:55:59 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:59:43 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:00:11 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:00:12 INFO  MyTest:63 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 18:00:12 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:00:20 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:00:24 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:00:25 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:02:31 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:02:32 INFO  MyTest:63 - addedProductName : 'Baseus Safety Airbag iPhone X Kılıf Gold'
+2018-12-15 18:02:32 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:02:40 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:02:44 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:02:45 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:03:42 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:03:43 INFO  MyTest:63 - addedProductName : 'Baseus Safety Airbag iPhone X Kılıf Gold'
+2018-12-15 18:03:43 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:03:50 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:03:54 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:03:55 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:42:47 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:42:48 INFO  MyTest:63 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 18:42:48 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:42:56 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:43:00 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:43:01 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:56:52 INFO  BaseTest:42 - Test finished.
+2018-12-15 18:58:21 INFO  BaseTest:42 - Test finished.
+2018-12-15 18:58:47 INFO  BaseTest:42 - Test finished.
+2018-12-15 18:59:35 INFO  BaseTest:42 - Test finished.
+2018-12-15 19:02:08 INFO  BaseTest:42 - Test finished.
+2018-12-15 19:10:23 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2018-12-15 19:10:40 INFO  BaseTest:42 - Test finished.
+2019-01-22 09:57:25 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-22 09:57:27 INFO  MyTest:49 - addedProductName : 'İphone Bluetooth Akıllı Saat Samsung Sony Lg Htc Telefonlar İçin'
+2019-01-22 09:57:27 INFO  BaseTest:50 - 3 saniye kadar bekleniyor.
+2019-01-22 09:57:41 INFO  BaseTest:50 - 3 saniye kadar bekleniyor.
+2019-01-22 09:57:51 INFO  BaseTest:42 - Test finished.
+2019-01-31 14:51:52 INFO  BaseTest:42 - Test finished.
+2019-01-31 14:59:19 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:02:58 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:05:56 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:07:19 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:07:20 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:09:38 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:11:03 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:11:05 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:11:58 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:11:59 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:15:17 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:15:18 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:15:19 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:16:10 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:16:11 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:16:12 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:17:34 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:17:35 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:17:36 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:19:59 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:20:05 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:20:06 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:25:51 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:25:53 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:25:54 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:31:52 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:31:56 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:32:26 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2019-01-31 15:32:28 INFO  BaseTest:31 - addedProductName : 'İphone Bluetooth Akıllı Saat Samsung Sony Lg Htc Telefonlar İçin'
+2019-01-31 15:32:28 INFO  BaseTest:50 - 3 saniye kadar bekleniyor.
+2019-01-31 15:32:46 INFO  BaseTest:50 - 3 saniye kadar bekleniyor.
+2019-01-31 15:32:51 INFO  BaseTest:50 - 3 saniye kadar bekleniyor.
+2019-01-31 15:32:54 INFO  BaseTest:42 - Test finished.
+2019-01-31 15:54:33 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-01-31 15:54:38 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-01-31 15:55:13 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-01-31 15:55:15 INFO  BaseTest:32 - addedProductName : 'İphone Bluetooth Akıllı Saat Samsung Sony Lg Htc Telefonlar İçin'
+2019-01-31 15:55:15 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-01-31 15:55:30 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-01-31 15:55:39 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-01-31 15:55:42 INFO  BaseTest:40 - Test finished.
+2019-01-31 15:57:15 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-01-31 15:57:18 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-01-31 15:57:46 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-01-31 15:57:48 INFO  BaseTest:32 - addedProductName : 'İphone Bluetooth Akıllı Saat Samsung Sony Lg Htc Telefonlar İçin'
+2019-01-31 15:57:48 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-01-31 15:58:03 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-01-31 15:58:09 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-01-31 15:58:12 INFO  BaseTest:40 - Test finished.
+2019-02-01 09:40:39 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-02-01 09:40:50 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-02-01 09:41:24 INFO  BasePage:65 - 1 saniye kadar bekleniyor.
+2019-02-01 09:41:26 INFO  BaseTest:32 - addedProductName : 'Apple iPhone 7 Plus 32 GB (İthalatçı Garantili)'
+2019-02-01 09:41:26 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-02-01 09:41:49 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-02-01 09:42:29 INFO  BasePage:65 - 3 saniye kadar bekleniyor.
+2019-02-01 09:42:32 INFO  BaseTest:40 - Test finished.
+2019-02-05 16:31:24 INFO  BasePage:66 - 1 saniye kadar bekleniyor.
+2019-02-05 16:31:32 INFO  BasePage:66 - 1 saniye kadar bekleniyor.
+2019-02-05 16:31:54 INFO  LoginTest:18 - Login Başarılı
+2019-02-05 16:31:54 INFO  BasePage:66 - 3 saniye kadar bekleniyor.
+2019-02-05 16:32:01 INFO  BaseTest:40 - Test finished.
+2019-02-05 16:37:45 INFO  BasePage:68 - 1 saniye kadar bekleniyor.
+2019-02-05 16:37:55 INFO  BasePage:68 - 1 saniye kadar bekleniyor.
+2019-02-05 16:38:03 INFO  LoginTest:18 - Login Başarılı
+2019-02-05 16:38:03 INFO  BasePage:68 - 3 saniye kadar bekleniyor.
+2019-02-05 16:38:18 INFO  BasePage:68 - 3 saniye kadar bekleniyor.
+2019-02-05 16:38:21 INFO  BaseTest:40 - Test finished.
+2019-02-05 17:07:33 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-05 17:07:37 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-05 17:07:47 INFO  LoginTest:18 - Login Başarılı
+2019-02-05 17:07:47 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-02-05 17:07:54 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-02-05 17:07:57 INFO  BaseTest:42 - Test finished.
+2019-02-06 10:02:33 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-06 10:02:42 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-06 10:02:53 INFO  LoginTest:19 - Login Başarılı
+2019-02-06 10:02:53 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-02-06 10:03:04 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-02-06 10:03:07 INFO  BaseTest:42 - Test finished.
+2019-02-08 13:49:45 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 13:50:15 INFO  BaseTest:44 - Test finished.
+2019-02-08 14:55:36 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 14:56:01 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 14:56:02 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:00:11 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:00:16 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:00:41 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:09:12 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:09:38 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:09:50 INFO  BasePage:60 - 2 saniye kadar bekleniyor.
+2019-02-08 15:10:07 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:11:37 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:11:54 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:12:19 INFO  BasePage:60 - 20 saniye kadar bekleniyor.
+2019-02-08 15:12:55 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:14:20 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:14:32 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:15:12 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:17:53 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:17:54 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:18:15 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:20:58 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:21:01 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:21:23 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:26:27 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:26:40 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:27:02 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:28:08 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:28:09 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:28:32 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:29:35 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:29:38 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:30:00 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:31:27 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:31:29 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:31:52 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:32:13 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:32:15 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:32:36 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:33:31 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:33:34 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:33:39 INFO  BasePage:60 - 180 saniye kadar bekleniyor.
+2019-02-08 15:35:57 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:36:04 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:36:13 INFO  BasePage:60 - 180 saniye kadar bekleniyor.
+2019-02-08 15:38:02 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:38:08 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:38:18 INFO  BasePage:60 - 7 saniye kadar bekleniyor.
+2019-02-08 15:38:41 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:39:17 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:40:47 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:40:51 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:41:02 INFO  BasePage:60 - 13 saniye kadar bekleniyor.
+2019-02-08 15:41:30 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:43:31 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:43:38 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:43:46 INFO  BasePage:60 - 13 saniye kadar bekleniyor.
+2019-02-08 15:44:15 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:45:37 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:45:40 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:45:45 INFO  BasePage:60 - 120 saniye kadar bekleniyor.
+2019-02-08 15:48:08 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:48:13 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:48:20 INFO  BasePage:60 - 120 saniye kadar bekleniyor.
+2019-02-08 15:49:51 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:49:52 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:49:58 INFO  BasePage:60 - 12 saniye kadar bekleniyor.
+2019-02-08 15:50:26 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:52:41 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:52:45 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:52:50 INFO  BasePage:60 - 120 saniye kadar bekleniyor.
+2019-02-08 15:54:56 INFO  BaseTest:44 - Test finished.
+2019-02-08 15:55:18 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:55:21 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 15:55:29 INFO  BasePage:60 - 12 saniye kadar bekleniyor.
+2019-02-08 15:55:57 INFO  BaseTest:44 - Test finished.
+2019-02-08 16:01:48 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 16:01:52 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 16:02:01 INFO  BasePage:60 - 12 saniye kadar bekleniyor.
+2019-02-08 16:02:28 INFO  BaseTest:44 - Test finished.
+2019-02-08 19:11:55 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 19:12:15 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 19:12:28 INFO  BasePage:60 - 120 saniye kadar bekleniyor.
+2019-02-08 19:14:28 INFO  BaseTest:44 - Test finished.
+2019-02-08 19:15:52 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 19:15:55 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-08 19:16:02 INFO  BasePage:60 - 120 saniye kadar bekleniyor.
+2019-02-09 15:21:27 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:21:48 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:22:19 INFO  BasePage:60 - 10 saniye kadar bekleniyor.
+2019-02-09 15:22:29 INFO  BaseTest:44 - Test finished.
+2019-02-09 15:26:49 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:26:56 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:27:02 INFO  BasePage:60 - 210 saniye kadar bekleniyor.
+2019-02-09 15:30:32 INFO  BaseTest:44 - Test finished.
+2019-02-09 15:32:18 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:32:21 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:32:26 INFO  BasePage:60 - 10 saniye kadar bekleniyor.
+2019-02-09 15:32:36 INFO  BaseTest:44 - Test finished.
+2019-02-09 15:33:21 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:33:22 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:33:26 INFO  BasePage:60 - 10 saniye kadar bekleniyor.
+2019-02-09 15:33:36 INFO  BaseTest:44 - Test finished.
+2019-02-09 15:35:11 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:35:12 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:35:16 INFO  BasePage:60 - 10 saniye kadar bekleniyor.
+2019-02-09 15:35:26 INFO  BaseTest:44 - Test finished.
+2019-02-09 15:38:55 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:38:56 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:39:16 INFO  BaseTest:44 - Test finished.
+2019-02-09 15:43:34 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:43:35 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:43:54 INFO  BaseTest:44 - Test finished.
+2019-02-09 15:45:40 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:45:41 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-02-09 15:45:46 INFO  BasePage:60 - 210 saniye kadar bekleniyor.
+2019-02-09 15:49:16 INFO  BaseTest:44 - Test finished.
+2019-02-09 16:10:16 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:10:25 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:10:31 INFO  BasePage:113 - 10 saniye kadar bekleniyor.
+2019-02-09 16:10:41 INFO  BaseTest:44 - Test finished.
+2019-02-09 16:14:11 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:14:14 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:14:18 INFO  BasePage:113 - 10 saniye kadar bekleniyor.
+2019-02-09 16:14:28 INFO  BaseTest:44 - Test finished.
+2019-02-09 16:15:11 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:15:12 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:15:17 INFO  BasePage:113 - 300 saniye kadar bekleniyor.
+2019-02-09 16:20:21 INFO  BaseTest:44 - Test finished.
+2019-02-09 16:21:46 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:21:50 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:21:56 INFO  BasePage:113 - 300 saniye kadar bekleniyor.
+2019-02-09 16:22:52 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:22:54 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:22:58 INFO  BasePage:113 - 10 saniye kadar bekleniyor.
+2019-02-09 16:23:08 INFO  BaseTest:44 - Test finished.
+2019-02-09 16:48:43 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:48:49 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:49:06 INFO  BasePage:113 - 2 saniye kadar bekleniyor.
+2019-02-09 16:49:08 INFO  BasePage:113 - 2 saniye kadar bekleniyor.
+2019-02-09 16:49:11 INFO  BasePage:113 - 10 saniye kadar bekleniyor.
+2019-02-09 16:49:23 INFO  BaseTest:44 - Test finished.
+2019-02-09 16:59:16 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 16:59:48 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 17:00:09 INFO  BasePage:113 - 3 saniye kadar bekleniyor.
+2019-02-09 17:00:13 INFO  BasePage:113 - 3 saniye kadar bekleniyor.
+2019-02-09 17:00:16 INFO  BasePage:113 - 10 saniye kadar bekleniyor.
+2019-02-09 17:00:42 INFO  BaseTest:44 - Test finished.
+2019-02-09 22:11:13 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 22:11:36 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 22:11:59 INFO  BaseTest:44 - Test finished.
+2019-02-09 22:14:04 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 22:14:27 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 22:14:36 INFO  BasePage:113 - 3 saniye kadar bekleniyor.
+2019-02-09 22:14:40 INFO  BasePage:113 - 3 saniye kadar bekleniyor.
+2019-02-09 22:14:43 INFO  BasePage:113 - 10 saniye kadar bekleniyor.
+2019-02-09 22:44:22 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 22:44:45 INFO  BasePage:113 - 1 saniye kadar bekleniyor.
+2019-02-09 22:45:07 INFO  BasePage:113 - 3 saniye kadar bekleniyor.
+2019-02-09 22:45:11 INFO  BasePage:113 - 3 saniye kadar bekleniyor.
+2019-02-09 22:45:14 INFO  BasePage:113 - 300 saniye kadar bekleniyor.
+2019-02-09 23:53:34 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-09 23:54:07 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-09 23:54:25 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-09 23:54:28 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-09 23:54:31 INFO  BasePage:123 - 300 saniye kadar bekleniyor.
+2019-02-09 23:56:51 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-09 23:56:53 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-09 23:57:01 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-09 23:57:04 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-09 23:57:07 INFO  BasePage:123 - 10 saniye kadar bekleniyor.
+2019-02-09 23:57:33 INFO  BaseTest:44 - Test finished.
+2019-02-09 23:59:23 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-09 23:59:24 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-09 23:59:31 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-09 23:59:34 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-09 23:59:37 INFO  BasePage:123 - 15 saniye kadar bekleniyor.
+2019-02-10 00:00:08 INFO  BasePage:123 - 5 saniye kadar bekleniyor.
+2019-02-10 00:00:13 INFO  BaseTest:44 - Test finished.
+2019-02-10 00:02:09 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-10 00:02:10 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-10 00:02:16 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-10 00:02:19 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-10 00:02:23 INFO  BasePage:123 - 15 saniye kadar bekleniyor.
+2019-02-10 00:03:02 INFO  BasePage:123 - 15 saniye kadar bekleniyor.
+2019-02-10 00:03:17 INFO  BaseTest:44 - Test finished.
+2019-02-10 00:19:04 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-10 00:19:27 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-10 00:19:45 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-10 00:19:48 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-10 00:19:51 INFO  BasePage:123 - 15 saniye kadar bekleniyor.
+2019-02-10 00:20:19 INFO  BaseTest:44 - Test finished.
+2019-02-10 00:22:19 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-10 00:22:37 INFO  BasePage:123 - 1 saniye kadar bekleniyor.
+2019-02-10 00:23:05 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-10 00:23:08 INFO  BasePage:123 - 3 saniye kadar bekleniyor.
+2019-02-10 00:23:12 INFO  BasePage:123 - 15 saniye kadar bekleniyor.
+2019-02-10 00:23:27 INFO  BasePage:123 - 15 saniye kadar bekleniyor.
+2019-02-10 00:23:42 INFO  BaseTest:44 - Test finished.
+2019-02-10 17:45:03 INFO  BaseTest:44 - Test finished.
+2019-02-10 17:50:05 INFO  BaseTest:44 - Test finished.
+2019-02-10 17:56:52 INFO  BaseTest:44 - Test finished.
+2019-02-10 18:00:11 INFO  BasePage:124 - 3 saniye kadar bekleniyor.
+2019-02-10 18:00:21 INFO  BasePage:124 - 5 saniye kadar bekleniyor.
+2019-02-10 18:00:42 INFO  BaseTest:44 - Test finished.
+2019-02-10 18:19:38 INFO  BaseTest:44 - Test finished.
+2019-02-10 18:20:30 INFO  BaseTest:44 - Test finished.
+2019-02-10 18:21:22 INFO  BasePage:124 - 1 saniye kadar bekleniyor.
+2019-02-10 18:21:24 INFO  BasePage:124 - 1 saniye kadar bekleniyor.
+2019-02-10 18:21:41 INFO  BaseTest:44 - Test finished.
+2019-02-10 18:27:24 INFO  BasePage:124 - 1 saniye kadar bekleniyor.
+2019-02-10 18:27:43 INFO  BasePage:124 - 1 saniye kadar bekleniyor.
+2019-02-10 18:28:12 INFO  BasePage:124 - 3 saniye kadar bekleniyor.
+2019-02-10 18:28:15 INFO  BasePage:124 - 3 saniye kadar bekleniyor.
+2019-02-10 18:28:19 INFO  BasePage:124 - 15 saniye kadar bekleniyor.
+2019-02-10 18:28:35 INFO  BaseTest:44 - Test finished.
+2019-02-10 21:48:28 INFO  BasePage:124 - 1 saniye kadar bekleniyor.
+2019-02-10 21:49:04 INFO  BasePage:124 - 1 saniye kadar bekleniyor.
+2019-02-10 21:49:29 INFO  BaseTest:44 - Test finished.
+2019-02-10 22:00:52 INFO  BaseTest:48 - Test finished.
+2019-02-10 22:05:03 INFO  BaseTest:49 - Test finished.
+2019-02-10 22:06:25 INFO  BasePage:124 - 1 saniye kadar bekleniyor.
+2019-02-10 22:06:41 INFO  BasePage:124 - 1 saniye kadar bekleniyor.
+2019-02-10 22:07:10 INFO  BasePage:124 - 3 saniye kadar bekleniyor.
+2019-02-10 22:07:13 INFO  BasePage:124 - 3 saniye kadar bekleniyor.
+2019-02-10 22:07:16 INFO  BasePage:124 - 15 saniye kadar bekleniyor.
+2019-02-10 22:07:47 INFO  BaseTest:49 - Test finished.
+2019-02-10 23:59:48 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:00:14 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:00:26 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:00:29 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:00:32 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 00:00:48 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 00:00:48 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:00:53 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:01:05 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 00:01:07 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:04:25 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:04:41 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:05:05 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:05:08 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:05:11 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 00:05:35 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 00:05:35 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:05:48 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:06:09 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 00:06:11 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:06:16 INFO  BaseTest:49 - Test finished.
+2019-02-11 00:32:03 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:32:34 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:33:00 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:33:03 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:33:06 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 00:33:29 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 00:33:29 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:33:40 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:34:04 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 00:34:08 INFO  SearchPage:27 - "İphone"
+2019-02-11 00:34:08 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:34:25 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:34:45 INFO  BaseTest:49 - Test finished.
+2019-02-11 00:48:47 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:48:50 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:49:13 INFO  BaseTest:49 - Test finished.
+2019-02-11 00:50:56 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:51:28 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 00:51:53 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:51:56 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:52:00 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 00:52:15 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 00:52:15 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:52:30 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 00:52:47 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 00:52:50 INFO  SearchPage:27 - "İphone"
+2019-02-11 00:52:50 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:53:03 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 00:53:24 INFO  BaseTest:49 - Test finished.
+2019-02-11 01:08:15 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 01:08:28 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 01:08:52 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:08:55 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:08:58 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 01:09:28 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 01:09:28 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:09:40 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:09:57 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 01:10:01 INFO  SearchPage:27 - "İphone"
+2019-02-11 01:10:01 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:10:22 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:10:43 INFO  BaseTest:49 - Test finished.
+2019-02-11 01:15:50 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 01:16:09 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 01:16:27 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:16:30 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:16:34 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 01:17:03 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 01:17:03 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:17:15 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:17:37 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 01:17:39 INFO  SearchPage:27 - "İphone"
+2019-02-11 01:17:39 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:18:03 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:18:20 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:18:29 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:18:32 INFO  BaseTest:49 - Test finished.
+2019-02-11 01:24:08 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 01:24:23 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 01:24:37 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:24:40 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:24:44 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 01:24:59 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 01:24:59 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:25:09 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:25:21 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 01:25:25 INFO  SearchPage:27 - "İphone"
+2019-02-11 01:25:25 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:25:39 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:25:54 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:26:15 INFO  BaseTest:49 - Test finished.
+2019-02-11 01:28:33 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 01:28:44 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 01:29:12 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:29:16 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:29:19 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 01:29:34 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 01:29:34 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:29:46 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:29:56 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 01:30:00 INFO  SearchPage:27 - "İphone"
+2019-02-11 01:30:00 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:30:18 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:30:38 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:30:45 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 01:30:51 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:30:54 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 01:30:57 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 01:31:19 INFO  BaseTest:49 - Test finished.
+2019-02-11 09:19:19 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:19:41 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:20:05 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:20:09 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:20:12 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 09:20:29 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 09:20:29 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:20:42 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:20:53 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 09:20:57 INFO  SearchPage:27 - "İphone"
+2019-02-11 09:20:57 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:21:13 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:21:30 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:21:37 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:21:48 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:21:51 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:21:55 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 09:22:10 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 09:22:10 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:22:15 INFO  BaseTest:49 - Test finished.
+2019-02-11 09:28:31 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:28:32 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:28:42 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:28:45 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:28:48 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 09:29:03 INFO  LoginPage:48 - demircan yılmaz
+2019-02-11 09:29:03 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:29:13 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:29:23 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 09:29:25 INFO  SearchPage:27 - "İphone"
+2019-02-11 09:29:25 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:29:34 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:29:44 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:29:50 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:29:59 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:30:02 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:30:05 INFO  BasePage:54 - 120 saniye kadar bekleniyor.
+2019-02-11 09:33:52 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:33:59 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:34:12 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:34:15 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:34:18 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 09:34:34 INFO  LoginPage:48 - demircan yılmaz
+2019-02-11 09:34:34 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:34:43 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:34:54 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 09:34:59 INFO  SearchPage:27 - "İphone"
+2019-02-11 09:34:59 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:35:12 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:35:26 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:35:33 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:35:42 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:35:45 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:35:48 INFO  BasePage:54 - 120 saniye kadar bekleniyor.
+2019-02-11 09:40:09 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:40:14 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:40:25 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:40:29 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:40:32 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 09:40:59 INFO  LoginPage:48 - demircan yılmaz
+2019-02-11 09:40:59 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:41:08 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:41:18 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 09:41:20 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:41:25 INFO  BaseTest:49 - Test finished.
+2019-02-11 09:45:48 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:46:03 INFO  BasePage:54 - 1 saniye kadar bekleniyor.
+2019-02-11 09:46:12 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:46:15 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:46:18 INFO  BasePage:54 - 15 saniye kadar bekleniyor.
+2019-02-11 09:46:35 INFO  LoginPage:48 - demircan yılmaz
+2019-02-11 09:46:35 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:46:45 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:46:56 INFO  BasePage:54 - 2 saniye kadar bekleniyor.
+2019-02-11 09:46:58 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:47:11 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:47:28 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:47:35 INFO  BasePage:54 - 5 saniye kadar bekleniyor.
+2019-02-11 09:47:43 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:47:46 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:47:49 INFO  BasePage:54 - 3 saniye kadar bekleniyor.
+2019-02-11 09:48:08 INFO  BaseTest:49 - Test finished.
+2019-02-11 10:02:49 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:02:58 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:03:04 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 10:03:08 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:03:12 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:03:15 INFO  BasePage:61 - 15 saniye kadar bekleniyor.
+2019-02-11 10:03:30 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 10:03:30 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:03:39 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:04:07 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 10:04:09 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:04:34 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:05:06 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:05:14 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:05:27 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:05:30 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:05:33 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:05:45 INFO  BaseTest:49 - Test finished.
+2019-02-11 10:08:47 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:14:10 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:14:14 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:14:29 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 10:14:33 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:14:36 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:14:40 INFO  BasePage:61 - 7 saniye kadar bekleniyor.
+2019-02-11 10:14:54 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 10:14:54 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:15:04 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:15:14 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 10:15:16 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:15:29 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:15:43 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:15:52 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:16:01 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:16:05 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:16:08 INFO  BasePage:61 - 60 saniye kadar bekleniyor.
+2019-02-11 10:17:08 INFO  BaseTest:49 - Test finished.
+2019-02-11 10:35:07 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:35:09 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:35:21 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 10:35:31 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:35:35 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:35:39 INFO  BasePage:61 - 7 saniye kadar bekleniyor.
+2019-02-11 10:36:01 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 10:36:02 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:36:21 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:37:15 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 10:37:17 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:37:41 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:38:02 INFO  BaseTest:49 - Test finished.
+2019-02-11 10:43:15 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:43:25 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:43:41 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 10:43:52 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:43:57 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:44:01 INFO  BasePage:61 - 7 saniye kadar bekleniyor.
+2019-02-11 10:44:29 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 10:44:29 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:44:45 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 10:45:08 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 10:45:10 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:45:28 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 10:45:49 INFO  BaseTest:49 - Test finished.
+2019-02-11 10:59:29 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:59:32 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 10:59:47 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 10:59:59 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:00:03 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:00:06 INFO  BasePage:61 - 7 saniye kadar bekleniyor.
+2019-02-11 11:00:25 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:00:25 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:00:36 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:00:53 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:00:55 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:01:13 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:01:34 INFO  BaseTest:49 - Test finished.
+2019-02-11 11:17:04 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:17:35 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:17:53 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 11:18:00 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:18:03 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:18:06 INFO  BasePage:61 - 7 saniye kadar bekleniyor.
+2019-02-11 11:18:24 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:18:24 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:18:34 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:18:56 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:18:58 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:19:18 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:19:38 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:19:46 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:19:57 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:20:00 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:20:03 INFO  BasePage:61 - 60 saniye kadar bekleniyor.
+2019-02-11 11:21:04 INFO  BaseTest:49 - Test finished.
+2019-02-11 11:30:58 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:31:13 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:31:40 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 11:31:48 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:31:51 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:31:54 INFO  BasePage:61 - 7 saniye kadar bekleniyor.
+2019-02-11 11:32:12 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:32:12 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:32:22 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:32:40 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:32:42 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:33:00 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:33:20 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:33:28 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:33:38 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:33:42 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:33:45 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:33:59 INFO  BaseTest:49 - Test finished.
+2019-02-11 11:43:03 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:43:20 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:43:36 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 11:43:41 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:43:44 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:43:48 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:44:01 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:44:01 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:44:11 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:44:22 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:44:24 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:44:39 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:44:57 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:45:05 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:45:15 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:45:19 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:45:22 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:45:34 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:45:34 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:45:39 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:45:40 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:45:42 INFO  BaseTest:49 - Test finished.
+2019-02-11 11:48:13 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:48:23 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:48:29 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 11:48:38 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:48:42 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:48:45 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:48:58 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:48:58 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:49:08 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:49:20 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:49:22 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:49:41 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:49:56 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:50:04 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:50:13 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:50:16 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:50:20 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:50:33 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:50:33 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:50:54 INFO  BaseTest:49 - Test finished.
+2019-02-11 11:51:52 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:52:03 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:52:12 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 11:52:16 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:52:19 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:52:23 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:52:39 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:52:39 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:52:48 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:53:01 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:53:03 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:53:16 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:53:32 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:53:39 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:53:49 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:53:53 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:53:56 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:54:08 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:54:08 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:54:14 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:54:15 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:54:17 INFO  BaseTest:49 - Test finished.
+2019-02-11 11:57:27 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:57:28 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 11:57:42 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 11:57:47 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:57:50 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:57:53 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:58:06 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 11:58:06 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:58:16 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 11:58:29 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 11:58:31 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:58:46 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:59:04 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 11:59:20 INFO  BaseTest:49 - Test finished.
+2019-02-11 12:07:21 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:07:24 INFO  BaseTest:49 - Test finished.
+2019-02-11 12:17:06 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:17:33 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:17:49 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 12:17:58 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:18:01 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:18:04 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:18:18 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:18:18 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:18:27 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:18:37 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:18:39 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:18:58 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:19:18 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:19:24 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:19:34 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:19:38 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:19:41 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:19:56 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:19:56 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:20:01 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:20:02 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:20:04 INFO  BaseTest:49 - Test finished.
+2019-02-11 12:25:34 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:25:36 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:25:55 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 12:26:02 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:26:06 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:26:09 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:26:23 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:26:23 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:26:32 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:26:44 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:26:46 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:27:04 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:27:31 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:27:45 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:27:55 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:27:58 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:28:01 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:28:12 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:28:13 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:28:18 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:28:19 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:28:21 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:28:45 INFO  BaseTest:49 - Test finished.
+2019-02-11 12:36:18 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:36:26 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:36:35 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 12:36:41 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:36:44 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:36:47 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:37:00 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:37:00 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:37:10 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:37:21 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:37:23 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:37:36 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:37:53 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:38:00 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:38:12 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:38:16 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:38:19 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:38:32 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:38:32 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:38:37 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:38:38 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:38:41 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:38:47 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:38:51 INFO  BaseTest:49 - Test finished.
+2019-02-11 12:45:45 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:45:59 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:46:09 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 12:46:22 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:46:25 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:46:29 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:46:46 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:46:46 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:47:00 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:47:19 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:47:21 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:47:35 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:47:56 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:48:03 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:48:20 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:48:23 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:48:27 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:48:41 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:48:41 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:48:47 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:48:48 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:48:50 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:49:02 INFO  BaseTest:49 - Test finished.
+2019-02-11 12:55:12 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:55:30 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:55:51 INFO  LoginPage:28 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 12:56:00 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:56:04 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:56:07 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:56:20 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:56:20 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:56:32 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:56:55 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:56:57 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:57:15 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:57:33 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:57:40 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:57:49 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:57:53 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:57:56 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:58:09 INFO  LoginPage:49 - demircan yılmaz
+2019-02-11 12:58:09 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 12:58:14 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:58:15 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:58:17 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:58:31 INFO  BaseTest:37 - Favori Listeniz
+2019-02-11 12:58:31 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 12:58:32 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:58:34 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:58:41 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 12:58:49 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 12:58:52 INFO  BaseTest:49 - Test finished.
+2019-02-11 13:10:35 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:11:04 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:11:27 INFO  LoginPage:26 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 13:11:38 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:11:41 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:11:45 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:11:57 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 13:11:57 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:12:07 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:12:18 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:12:20 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:12:33 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:12:50 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:12:57 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:13:06 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:13:09 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:13:12 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:13:21 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 13:13:21 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:13:26 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:13:27 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:13:29 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:13:46 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:13:48 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:13:50 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:13:57 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:14:04 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:14:07 INFO  BaseTest:49 - Test finished.
+2019-02-11 13:20:00 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:20:13 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:20:22 INFO  LoginPage:26 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 13:20:28 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:20:31 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:20:34 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:20:45 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 13:20:45 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:20:55 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:21:07 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:21:09 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:21:20 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:21:38 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:21:45 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:21:54 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:21:57 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:22:00 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:22:13 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 13:22:13 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:22:18 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:22:19 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:22:21 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:22:29 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:22:30 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:22:32 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:22:39 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:22:56 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:22:59 INFO  BaseTest:49 - Test finished.
+2019-02-11 13:46:02 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:46:34 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:47:01 INFO  LoginPage:26 - Üye Giriş Sayfası – Hepsiburada.com
+2019-02-11 13:47:07 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:47:11 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:47:14 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:47:23 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 13:47:23 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:47:33 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:47:48 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:47:50 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:48:12 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:48:29 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:48:37 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:48:46 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:48:49 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:48:52 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:49:04 INFO  LoginPage:47 - demircan yılmaz
+2019-02-11 13:49:04 INFO  BasePage:61 - 5 saniye kadar bekleniyor.
+2019-02-11 13:49:10 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:49:11 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:49:13 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:49:22 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:49:23 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:49:25 INFO  BasePage:61 - 2 saniye kadar bekleniyor.
+2019-02-11 13:49:35 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-02-11 13:49:51 INFO  BasePage:61 - 3 saniye kadar bekleniyor.
+2019-02-11 13:49:54 INFO  BaseTest:49 - Test finished.
